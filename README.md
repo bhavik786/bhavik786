@@ -57,10 +57,13 @@ C++ file-sharing platform with smart search and mirrored load handling — befor
 
 ## 📫 Connect with Me
 
+- 📝 [Medium](https://medium.com/@gevariyabhavik20)  
+- 💻 [Dev.to](https://dev.to/bhavik786)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhavikgevariya)  
 - 🌐 [Portfolio](https://bhavik-gevariya.netlify.app)  
 - 📬 [Email](mailto:bhavikgevariya1@gmail.com)  
 - 👨‍💻 [GitHub](https://github.com/bhavik786)
+
   
 Let’s build.  
 Let’s break.  
