@@ -17,7 +17,25 @@ I’m Bhavik — a builder of clean code, committed systems, and silent fixes th
 - 🎓 **Master of Applied Computing**, University of Windsor  
 - 🧠 4+ years of professional dev work  
 - 🌍 Lived the grind in India, polished the craft in Canada  
-- 🧭 Tech stack fluency: React, Node, FastAPI, MongoDB, PostgreSQL, AWS, Docker
+
+---
+
+## 🔧 Technologies & Tools
+
+**Languages:**  
+JavaScript | TypeScript | Python | Java | SQL | C++ | C
+
+**Frontend:**  
+ReactJS | NextJS | VueJS | Redux | Angular | TailwindCSS | MaterialUI
+
+**Backend & API:**  
+NodeJS | FastAPI | Django | Express | GraphQL | Socket.io
+
+**Databases:**  
+PostgreSQL | MongoDB | MariaDB | MySQL | Sequelize | Prisma
+
+**DevOps & Tools:**  
+Docker | GitHub Actions | AWS EC2/S3/Lambda/SNS | Jenkins | Linux | Bitbucket | Postman | Jira
 
 ---
 
@@ -27,7 +45,7 @@ I’m Bhavik — a builder of clean code, committed systems, and silent fixes th
 From Laravel spaghetti to NodeJS elegance — performance up by 20%, insights up by 40%.
 
 📌 **SustainIQ** – ESG Reporting Tool  
-Led a team of 5 to first place in a national project comp. Clean UI, clean backend, cleaner air? Almost.
+Led a team of 5 to first place in a project competition at university. Clean UI, clean backend, cleaner air? Almost.
 
 📌 **NetTransmit**  
 C++ file-sharing platform with smart search and mirrored load handling — before it was cool.
