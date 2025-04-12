@@ -58,8 +58,6 @@ C++ file-sharing platform with smart search and mirrored load handling — befor
 - Writing code and documentation like they’re two halves of the same soul
 
 ---
-
----
 ## 🙊 Dev Confession Corner
 
 - I’ve Googled “how to center a div” more times than I’m proud of.  
